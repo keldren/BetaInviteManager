@@ -1,2 +1,15 @@
 D:\Programming Stuff\BetaInviteManager\BetaInviteManager\BetaInviteManager\bin\Debug\BetaInviteManager.exe.config
 D:\Programming Stuff\BetaInviteManager\BetaInviteManager\bin\Debug\BetaInviteManager.exe.config
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\bin\Debug\BetaInviteManager.exe
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\bin\Debug\BetaInviteManager.pdb
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager.csprojResolveAssemblyReference.cache
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\MainWindow.g.cs
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\App.g.cs
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager_MarkupCompile.cache
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager_MarkupCompile.lref
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\MainWindow.baml
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager.g.resources
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager.Properties.Resources.resources
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager.csproj.GenerateResource.Cache
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager.exe
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\obj\Debug\BetaInviteManager.pdb

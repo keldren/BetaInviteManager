@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BetaInviteManager"
         mc:Ignorable="d"
-        Title="Invite Manager" Height="350" Width="525">
-    <Grid>
-        
+        Title="Invite Manager" Height="350" Width="690.508">
+    <Grid Margin="0,0,2,0">
+        <Button x:Name="btnAddToPoolFromClipboard" Content="Add to Pool from Clipboard" HorizontalAlignment="Left" Height="24" Margin="18,10,0,0" VerticalAlignment="Top" Width="159"/>
+        <TextBox x:Name="txtbxSearch" HorizontalAlignment="Left" Height="20" Margin="18,41,0,0" TextWrapping="Wrap" Text="Search" VerticalAlignment="Top" Width="284"/>
+        <DataGrid x:Name="dgDatabaseView" HorizontalAlignment="Left" Height="240" Margin="18,69,0,0" VerticalAlignment="Top" Width="284"/>
+        <Button x:Name="btnFlagSelectedForInvite" Content="Create Invite CSV" HorizontalAlignment="Left" Height="23" Margin="561,202,0,0" VerticalAlignment="Top" Width="110"/>
+        <Button x:Name="btnFlagForRemoval" Content="Blacklist Selected" HorizontalAlignment="Left" Height="23" Margin="561,230,0,0" VerticalAlignment="Top" Width="110"/>
+        <Button x:Name="btnImportResults" Content="Import Success CSV" HorizontalAlignment="Left" Height="23" Margin="561,258,0,0" VerticalAlignment="Top" Width="110"/>
+        <Button x:Name="btnSendInviteRequestMail" Content="Send Invite Mail" HorizontalAlignment="Left" Height="23" Margin="561,286,0,0" VerticalAlignment="Top" Width="110"/>
+
     </Grid>
 </Window>
