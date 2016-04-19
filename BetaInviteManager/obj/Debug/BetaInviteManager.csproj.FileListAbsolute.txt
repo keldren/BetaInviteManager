@@ -1,0 +1,2 @@
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\BetaInviteManager\bin\Debug\BetaInviteManager.exe.config
+D:\Programming Stuff\BetaInviteManager\BetaInviteManager\bin\Debug\BetaInviteManager.exe.config
